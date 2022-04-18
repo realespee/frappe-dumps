@@ -1,0 +1,54 @@
+       Single server installation 
+
+·         Backup (Ubuntu & CentOS) 
+
+·         Security  (Ubuntu & CentOS) 
+
+·         App/sites migration between servers 
+
+·         Maintenance and optimization 
+
+·         Back and front customizations: 
+
+o    Modifying HTML for each site without affecting Frappe core code (e.g. Kanban views) 
+
+o    Workspace 
+
+o    Hard coding avoidance 
+
+·         Third-party integration: 
+
+o    External Database connectivity (ODBC) 
+
+o    Azure  Devops
+
+·         Frappe Docker: 
+
+o    DNS Multitenancy conf 
+
+o    Development: 
+
+·         Bench install 
+
+·         VSCode Remote Containers management 
+
+·         Creating site 
+
+·         Custom apps 
+
+o    Custom apps containerization 
+
+o    Production: 
+
+·         Setup and config 
+
+·         Single server deployment 
+
+·         Kubernetes deployment 
+
+·         Frappe Cloud: 
+
+o    Customization 
+
+o    External Database connectivity (ODBC) 
+
